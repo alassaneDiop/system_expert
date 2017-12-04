@@ -1,0 +1,4 @@
+si a ou b alors c
+si c alors d
+si a et c alors k
+si d et k alors e
